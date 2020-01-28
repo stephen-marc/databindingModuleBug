@@ -1,0 +1,3 @@
+rootProject.name='Reprod'
+include ':app'
+include ':foo'
